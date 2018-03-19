@@ -34,13 +34,35 @@ Complete la tabla:
 |Stepping feet |Movimiento e Interactivo|Al observar el movimiento de "pies" negros y blancos, estos parecen caminar alternativamente, aunque en realidad, su movimiento es siempre simultáneo. http://www.michaelbach.de/ot/mot-feetLin/index.html            |   Hacer click para que desaparezcan las lineas verticales y pueda obervarse el movimiento de los pasos | https://www.openprocessing.org/sketch/48692                             |
 
 
+### Nota
+    Ejecutar el archivo 'main_class.pde' y visualizar las ilusiones con el uso de mouse
+    y barra espaciadora para cambiar entre ilusiones.   
 
 2. Describa brevememente las referencias estudiadas y los posibles temas en los que le gustaría profundizar:
 
- illusory contours are generated in the V2 area of the visual cortex, which is responsible for processing complex shapes
+    Hidden patterns: La ilusión se concretiza cuando al utilizar recursivamente el renderizado
+    de varios círculos, se obtiene la forma de un copo de nieve. Esto es explicado por el modelo 
+    matemático de fractales un objeto cuya estructura básica se repite a diferentes escalas. Se 
+    encuentra en muchas de las estructuras naturales. La dimensión metrica fractal de un objeto, 
+    es un numero no entero.
+    
+    Illusory square: A nivel subconsciente, como en muchas de las ilusiones ópticas...Se percibe
+    un determinado patrón o figura, que a nivel básico no se encuentra dentro del gráfico.
+    Dado el movimiento de los círculos pequeños (blancos) hacia el interior del cuadro,
+    se percibe que hay un cuadrado(En realidad un rombo) cuando estos salen del cuadrado e
+    ingresan a las elipses grandes(grises). Si se retirara el cuadrado del fondo la ilusión
+    no funcionaría de la misma manera.
+    
+    En cuanto a la apreciación de las diferetnes ilusiones opticas, las que estan enfocadas en la parte paradojica o perspectiva hacen que la intriga sea mayor, debido a que se pueden apreciar diferentes visiones identificando ciertas  nociones de historias o momentos.
+    
+    Es curioso como la ilusión de las bananas nos hace asumir que hay pixeles amarillos
+    cuando esto en realidad no es cierto. Si se analiza la imagen dependiendo los colores al rededor
+    se puede obtener una percepción distinta sobre los pixeles correspondientes a las bananas.
+    
 
 
 ## Entrega
 
 * Modo de entrega: [Fork](https://help.github.com/articles/fork-a-repo/) la plantilla en las cuentas de los integrantes (de las que se tomará una al azar).
 * Plazo: 18/3/18 a las 24h.
+
